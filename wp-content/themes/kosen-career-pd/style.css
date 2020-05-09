@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/*
+ Theme Name:  高専キャリアプロダクト開発実践講座テーマ
+ Description:  高専キャリアのプロダクト開発実践講座用wordpressテーマです
+ Template:     sango-theme
+ Version:      0.0.1
+*/
+
+/*================================
+ * スマホ以外向けCSS 
+ *================================*/
+@media screen and (min-width: 759px){
+
+}
+
+
+/*================================
+ * スマホ向けCSS 
+ *================================*/
+@media screen and (max-width: 768px){
+
+}
