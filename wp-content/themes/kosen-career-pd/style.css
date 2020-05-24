@@ -10,6 +10,19 @@
   padding-left: 4rem;
 }
 
+#toc_container span.toc_toggle {
+  color: #555;
+  background: none;
+  font-size: 1rem;
+  display: inline;
+  text-align: left;
+  margin-left: 10px;
+}
+
+#toc_container span.toc_toggle a {
+  color: #555;
+}
+
 /*================================
  * スマホ以外向けCSS 
  *================================*/
