@@ -6,6 +6,32 @@
  Version:      0.0.1
 */
 
+#toc_container p.toc_title {
+  padding-left: 4rem;
+}
+
+#toc_container span.toc_toggle {
+  color: #555;
+  background: none;
+  font-size: 1rem;
+  display: inline;
+  text-align: left;
+  margin-left: 10px;
+}
+
+#toc_container span.toc_toggle a {
+  color: #555;
+}
+
+.toc_widget_list ul {
+	padding-left: 1rem;
+}
+
+.widget ul li ul li a:before {
+	padding-right: 0;
+	content: none;
+}
+
 /*================================
  * スマホ以外向けCSS 
  *================================*/
